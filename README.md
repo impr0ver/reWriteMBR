@@ -13,4 +13,5 @@ Rewrite first 512 bytes MBR
 Attention. Run only on a virtual machine!!!
 
 It can be detected by av!
+
 This is a module that demonstrates writing a MBR, nothing more.
